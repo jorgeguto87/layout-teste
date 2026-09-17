@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PainelPedidos } from "@/components/PainelPedidos";
 
-const titulo = "Fogueira KDS — Painel de pedidos do restaurante";
+const titulo = "Eu Cardápio — Painel de pedidos do restaurante - TESTE";
 const descricao =
   "Receba e administre pedidos de mesa, delivery e balcão em um só painel: fila por status, impressão de comanda, impressão automática e lançamento de pedido no balcão.";
 
