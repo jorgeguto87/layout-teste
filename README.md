@@ -1,30 +1,29 @@
-# Eu Cardapio — Cadastro de Produto
+# Welcome to your Lovable project
 
-Tela de cadastro de produtos para restaurantes, construída com Lovable.
+This project was built with [Lovable](https://lovable.dev).
 
-## Como rodar o projeto
+## Build with Lovable
 
-Você precisa ter o Node.js instalado (versão 20 ou superior) — se não tiver, instale com o [nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
+- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+
+## Development
+
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
-# 1. Descompacte o zip e entre na pasta
-cd eu-cardapio
-
-# 2. Instale as dependências
+git clone <this-repository-url>
+cd <repository-name>
 npm i
-
-# 3. Rode o projeto
 npm run dev
 ```
 
-Depois abra `http://localhost:8080` no navegador.
-
-## Dica
-
-Você também pode continuar editando este projeto direto no [Lovable](https://lovable.dev) — basta descrever o que quer mudar.
-
-## Construído com
+## Built with
 
 - TanStack Start
-- React + TypeScript
+- TypeScript
+- React
 - Tailwind CSS
